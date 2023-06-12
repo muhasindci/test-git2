@@ -3,4 +3,5 @@ This is Max.
 
 I am 22 years old.
 
-I am a student.
+I live in Düsseldorf.
+
